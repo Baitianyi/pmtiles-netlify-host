@@ -1,0 +1,28 @@
+{"frames": [
+
+{
+	"filename": "1.png",
+	"frame": {"x":0,"y":0,"w":128,"h":117},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":128,"h":117},
+	"sourceSize": {"w":128,"h":117}
+},
+{
+	"filename": "2.png",
+	"frame": {"x":0,"y":117,"w":128,"h":101},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":128,"h":101},
+	"sourceSize": {"w":128,"h":101}
+}],
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "grass.png",
+	"format": "RGBA8888",
+	"size": {"w":128,"h":218},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:4b8fda386b56ba016bc34c3f9ff7e685:b00aad7815e77acd8c575f159992211b:b5eff027e4675af447e0c9c1b13dff5b$"
+}
+}
