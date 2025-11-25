@@ -1,0 +1,21 @@
+{"frames": [
+
+{
+	"filename": "grass-field-texture-free-download-thumb33.jpg",
+	"frame": {"x":0,"y":0,"w":800,"h":600},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":800,"h":600},
+	"sourceSize": {"w":800,"h":600},
+	"pivot": {"x":0.5,"y":0.5}
+}],
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "renzaotextures.png",
+	"format": "RGBA8888",
+	"size": {"w":800,"h":600},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:beafa14c4c7feda48e99985cde92c57c:3f8212ea2d15982dc32610953fad0345:2574e6814b8ef785b28040d7a68f4b50$"
+}
+}
