@@ -1,30 +1,18 @@
-{"frames": [
+{
+  "renzao": {
+    "width": 256,
+    "height": 192,
+    "x": 0,
+    "y": 0,
+    "pixelRatio": 1
+  },
+  "tianran": {
+    "width": 256,
+    "height": 192,
+    "x": 256,
+    "y": 0,
+    "pixelRatio": 1
+  }
+}
 
-{
-	"filename": "renzao.jpg",
-	"frame": {"x":0,"y":0,"w":256,"h":192},
-	"rotated": false,
-	"trimmed": false,
-	"spriteSourceSize": {"x":0,"y":0,"w":256,"h":192},
-	"sourceSize": {"w":256,"h":192},
-	"pivot": {"x":0.5,"y":0.5}
-},
-{
-	"filename": "tianran.jpg",
-	"frame": {"x":256,"y":0,"w":256,"h":192},
-	"rotated": false,
-	"trimmed": false,
-	"spriteSourceSize": {"x":0,"y":0,"w":256,"h":192},
-	"sourceSize": {"w":256,"h":192},
-	"pivot": {"x":0.5,"y":0.5}
-}],
-"meta": {
-	"app": "https://www.codeandweb.com/texturepacker",
-	"version": "1.0",
-	"image": "sprites.png",
-	"format": "RGBA8888",
-	"size": {"w":512,"h":192},
-	"scale": "1",
-	"smartupdate": "$TexturePacker:SmartUpdate:a1454877496fbbf95507940a5b88ab82:e285a0a09b5e13522b5e46ad50c213b7:1eabdf11f75e3a4fe3147baf7b5be24b$"
-}
-}
+
