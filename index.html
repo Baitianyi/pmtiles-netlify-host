@@ -1,0 +1,30 @@
+<!-- index.html -->
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>PMTiles Host</title>
+</head>
+<body>
+  <h1>PMTiles Hosting Ready</h1>
+  <p>Map file URL:</p>
+  <code id="url"></code>
+  <script>
+    const url = `${window.location.origin}/maps/china_12.pmtiles`;
+    document.getElementById('url').textContent = url;
+    
+    // 测试能否 fetch
+    fetch('/maps/china_12.pmtiles')
+      .then(res => {
+        if (res.ok && res.headers.get('content-type')?.includes('pmtiles')) {
+          document.body.style.backgroundColor = '#e6ffe6';
+          document.write('<h2 style="color:green"> Fetch test PASSED!</h2>');
+        }
+      })
+      .catch(() => {
+        document.body.style.backgroundColor = '#ffe6e6';
+        document.write('<h2 style="color:red"> Fetch test FAILED!</h2>');
+      });
+  </script>
+</body>
+</html>

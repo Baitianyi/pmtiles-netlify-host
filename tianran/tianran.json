@@ -1,0 +1,22 @@
+{"frames": [
+
+{
+	"filename": "seamless-grass-texture-free-thumb27.jpg",
+	"frame": {"x":0,"y":0,"w":800,"h":600},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":800,"h":600},
+	"sourceSize": {"w":800,"h":600},
+	"pivot": {"x":0.5,"y":0.5}
+}],
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "tianrantextures.png",
+	"format": "RGBA8888",
+	"size": {"w":800,"h":600},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:f08d818d339034bb36f0abdc77df682e:682c75b4b9f8da5e5b818cde436ae59e:e13fd45d0c366879a3c9b44e19b0cf20$"
+}
+}
+

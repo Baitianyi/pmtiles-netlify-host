@@ -1,0 +1,16 @@
+{
+  "renzao": {
+    "width": 800,
+    "height": 600,
+    "x": 0,
+    "y": 0,
+    "pixelRatio": 1
+  },
+  "tianran": {
+    "width": 800,
+    "height": 600,
+    "x": 800,
+    "y": 0,
+    "pixelRatio": 1
+  }
+}
